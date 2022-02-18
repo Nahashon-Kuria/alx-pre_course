@@ -1,2 +1,2 @@
 ## alx-pre_course
-### Introduction
+### Introduction to ALX
